@@ -7,5 +7,4 @@ Co jeszcze trzeba zrobić:
 Na koniec:
 - podsumowanie
 - notebook na czysto
-- poster
-- nagranie
+- prezentacja

@@ -1,5 +1,4 @@
 Co jeszcze trzeba zrobić:
-- funkcja do liczenia średniego błędu
 - selekcja ważnych zmiennych i zaaplikowanie na nich modeli
 - jakieś próby zastępowania zmiennych kategorycznych - a może mean target?
 

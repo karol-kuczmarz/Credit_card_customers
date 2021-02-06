@@ -1,6 +1,7 @@
 # Credit card cancellation prediction
 
 Machine learning project by Jakub Kuciński and Karol Kuczmarz
+
 University of Wrocław
 
 ## Dataset

@@ -1,9 +1,0 @@
-Co jeszcze trzeba zrobić:
-- selekcja ważnych zmiennych i zaaplikowanie na nich modeli
-- jakieś próby zastępowania zmiennych kategorycznych - a może mean target?
-
-
-Na koniec:
-- podsumowanie
-- notebook na czysto
-- prezentacja
